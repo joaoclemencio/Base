@@ -1,7 +1,7 @@
 # Joao Clemencio
 
 Email: joao.clemencio@gmail.com  
-Tel: +44 745 0366 085
+Phone: +44 745 0366 085
 
 ## Profile Summary
 
@@ -84,10 +84,10 @@ In this course, several subjects were explored within the scope of Engineering, 
 
 ## Languages
 
-- Portuguese: Mother-tongue
-- English: Excellent understanding of the language; studied for 10 years at The British Council and completed the Certificate in Advanced English exam with an A
-- Italian: Good speaking and reading understanding, with moderate writing skills
-- German: Elementary understanding of the language
+- __Portuguese:__ Mother-tongue
+- __English:__ Excellent understanding of the language; studied for 10 years at The British Council and completed the Certificate in Advanced English exam with an A
+- __Italian:__ Good speaking and reading understanding, with moderate writing skills
+- __German:__ Elementary understanding of the language
 
 - - - 
 
@@ -97,7 +97,7 @@ Having always been connected to information technologies, I can easily adapt to 
 
 - __Data Extraction:__ Teradata EDW (T-SQL); SAS EG to access Oracle (PL/SQL); MySQL
 - __Data Analysis:__ Excel; R; SAS; SPSS
-- __Data Visualization/Presentation:__ TIBCO Spotfire; Tableau
+- __Data Visualization:__ TIBCO Spotfire; Tableau
 - __Programming:__ R; VBA; Javascript/jQuery; C++; Python; PHP
 - __Markup:__ HTML; CSS; XML; MD; LaTeX; UML
 - __Web Analytics:__ Google Analytics; Ometria
