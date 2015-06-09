@@ -93,15 +93,15 @@ In this course, several subjects were explored within the scope of Engineering, 
 
 ## Technical
 
-Having always been connected to information technologies, I developed an excellent capacity for adaptation to new software and systems.
+Having always been connected to information technologies, I can easily adapt to new software and systems.
 
-- Data Extraction: Teradata EDW (T-SQL); SAS EG to access Oracle (PL/SQL); MySQL
-- Data Analysis: Excel; R; SAS; SPSS
-- Data Visualization/Presentation: TIBCO Spotfire; Tableau
-- Programming: R; VBA; Javascript/jQuery; C++; Python; PHP
-- Markup: HTML; CSS; XML; MD; LaTeX; UML
-- Web Analytics: Google Analytics; Ometria
-- Office tools: Microsoft Office; LibreOffice; OpenOffice; Lotus Notes
+- _Data Extraction:_ Teradata EDW (T-SQL); SAS EG to access Oracle (PL/SQL); MySQL
+- _Data Analysis:_ Excel; R; SAS; SPSS
+- _Data Visualization/Presentation:_ TIBCO Spotfire; Tableau
+- _Programming:_ R; VBA; Javascript/jQuery; C++; Python; PHP
+- _Markup:_ HTML; CSS; XML; MD; LaTeX; UML
+- _Web Analytics:_ Google Analytics; Ometria
+- _Office tools:_ Microsoft Office; LibreOffice; OpenOffice; Lotus Notes
 
 - - - 
 
