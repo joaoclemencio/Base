@@ -1,3 +1,5 @@
+<!-- This document is written in MarkDown for legibility. To see it fully formatted, go to https://github.com/joaoclemencio/Base/edit/master/CV.md -->
+
 # Joao Clemencio
 
 Email: joao.clemencio@gmail.com  
