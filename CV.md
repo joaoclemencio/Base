@@ -1,4 +1,4 @@
-<!-- This CV is written in MarkDown. For better legibility please see https://github.com/joaoclemencio/Base/blob/master/CV.md -->
+<!-- This document is written in MarkDown for legibility. To see it fully formatted, go to https://github.com/joaoclemencio/Base/edit/master/CV.md -->
 
 # Joao Clemencio
 
