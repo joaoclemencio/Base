@@ -1,9 +1,15 @@
+<!-- This CV is written in MarkDown. For better legibility please see https://github.com/joaoclemencio/Base/blob/master/CV.md -->
+
 # Joao Clemencio
 
 Email: joao.clemencio@gmail.com  
 Phone: +44 745 0366 085
 
 ## Profile Summary
+
+I'm an Industrial Engineer who is passionate about data and its insights.
+
+I've worked for large and small companies for 4 years and . I love to improve, program and automate; I'm curious and driven. I am a great link between back end development and front end needs.
 
 Industrial Engineer with experience in Control, Planning and Quality Assurance, in both Manufacturing and Logistics Service industries.
 
@@ -20,7 +26,7 @@ Fascinated by technology and information, music, networking and photography.
 
 Website/CRM Conversions Lead for a fast growing furniture e-commerce start-up.
 
-- Responsible for developing the testing pipeline; expected 5-yr revenue increase of over £150k from implemented recommendations (e.g. block new designs to users until sign-up; send a follow-up welcome email; redesign the daily marketing email).
+- Developed the testing pipeline; expected 5-yr revenue increase of over £150k from implemented recommendations (e.g. block new designs to users until sign-up; send a follow-up welcome email; redesign the daily marketing email).
 - Developed conversion test implementation procedures, and methodologies for root cause analysis of KPI fluctuations.
 - Configured analytics tools (GA) to segment logged in/out users, and specific segments for ad-hoc analyses.
 - Performed seasonality analysis on purchases and visits to better understand consumer behaviour.
