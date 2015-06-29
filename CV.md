@@ -7,10 +7,6 @@ Phone: +44 745 0366 085
 
 ## Profile Summary
 
-I'm an Industrial Engineer who is passionate about data and its insights.
-
-I've worked for large and small companies for 4 years and . I love to improve, program and automate; I'm curious and driven. I am a great link between back end development and front end needs.
-
 Industrial Engineer with experience in Control, Planning and Quality Assurance, in both Manufacturing and Logistics Service industries.
 
 Data driven, fact based and detail oriented; with strong interpersonal and collaborative abilities, excellent grasp and translation of requirements, good presentation skills and an ambition for problem solving.
@@ -21,31 +17,35 @@ Fascinated by technology and information, music, networking and photography.
 
 ## Professional Experience
 
+### Worldpay
+#### Jul '15 to Present - Customer Data Analyst
+
+
+
 ### Swoon Editions
 #### Jan '15 to May '15 - Conversions Specialist
 
 Website/CRM Conversions Lead for a fast growing furniture e-commerce start-up.
 
-- Developed the testing pipeline; expected 5-yr revenue increase of over £150k from implemented recommendations (e.g. block new designs to users until sign-up; send a follow-up welcome email; redesign the daily marketing email).
-- Developed conversion test implementation procedures, and methodologies for root cause analysis of KPI fluctuations.
-- Configured analytics tools (GA) to segment logged in/out users, and specific segments for ad-hoc analyses.
-- Performed seasonality analysis on purchases and visits to better understand consumer behaviour.
+- Developed the testing pipeline and implementation procedure; expected 5-yr revenue increase of £150k+ from implemented recommendations
+- Configured analytics tools (GA) to segment logged in/out users, and specific segments for ad-hoc analyses
+- Performed seasonality analysis on purchases and visits to better understand consumer behaviour
 
 ### FedEx Express, Planning & Engineering UK&IE
 #### Jan '13 to Dec '14 - Industrial Engineer
 
 Express gateway/station planning, operational and analytical support through:  
-- Data gathering from multiple sources, processing, analysis and presentation:  
+- _Data gathering from multiple sources, processing, analysis and presentation_:
     - Development of visualisation tools for analysis of flight and container movement performance
 	- Provision of ad-hoc analyses with regards to flows (of shipments, trucks, flights) within the network
 	- Organization of workshops on querying Teradata EDW databases and neo4j graph databases
-- Improvement and development of operational processes:
-	- Received recognition for facilitating a project (split into 7 teams) to improve on-time departure performance through root cause analysis of potential issues, timing and measurement of transiting volume movements; on-time departure frequency for a critical flight over a 6-month period increased 5-fold year-on-year;
+- _Improvement and development of operational processes_:
+	- Performance award for facilitating a project (split into 7 teams) to improve on-time flight & shuttle departure performance; on-time departures for a critical flight increased 5x YoY;
 	- Recognized as Employee of the Month for the UK District on August 2014 for providing continuous support and improvements to operations
-- Cost-benefit analyses of operational opportunities:
+- _Cost-benefit analyses of operational opportunities_:
 	- e.g. Impact and cost evaluation between manual covering vs. construction of a dedicated area to protect exterior equipment from rain: proposed solutions currently under evaluation by upper management; analysis has been used by other operating locations as a benchmark;
 	- e.g. Creation of manning model for a sort operation (via manual timing of operations, volume analysis and reference to best practices) to calculate staffing requirements
-- Project facilitation and management support:
+- _Project facilitation and management support_:
 	- Received recognition for planning (in a 1 month timeframe) and implementing an alternative trucking solution during a high-volume period at little additional cost (£0.09/kg/day) and little-to-no service impact
 - Development of macros for improvement of operational efficiency:
 	- Received recognition for quick development on a short of a system for business critical functions;
